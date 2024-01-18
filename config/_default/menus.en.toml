@@ -10,6 +10,23 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+[[main]]
+ name = "Commands"
+ pre = "twitch"
+ pageRef = "/commands"
+ weight = 10
+
+[[main]]
+ name = "Gamelist"
+ pre = "list"
+ pageRef = "/games"
+ weight = 20
+
+[[main]]
+ pre = "rss"
+ url = "/index.xml"
+ weight = 50
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
@@ -40,11 +57,6 @@
 #  name = "My Awesome Category"
 #  pre = "github"
 #  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
 #  weight = 20
 
 #[[main]]
