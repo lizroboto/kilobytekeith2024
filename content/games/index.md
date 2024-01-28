@@ -11,6 +11,6 @@ showTableOfContents: true
 
 ### Completed on Stream ✔️
 
-| DOOM 1/14/24                                                   | Metal Gear Solid - 1/27/24                        |
+| DOOM                                                | Metal Gear Solid                       |
 | ----------------------------------------------------- | --------------------------------------------- |
-| ![DOOM](https://images.igdb.com/igdb/image/upload/t_cover_big/co6vy6.png 'DOOM') | ![MGS](https://images.igdb.com/igdb/image/upload/t_cover_big/co5ipi.png 'Metal Gear Solid') |
+| ![1/14/24](https://images.igdb.com/igdb/image/upload/t_cover_big/co6vy6.png 'DOOM') | ![1/27/24](https://images.igdb.com/igdb/image/upload/t_cover_big/co5ipi.png 'Metal Gear Solid') |
