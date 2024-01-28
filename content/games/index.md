@@ -7,6 +7,7 @@ showTableOfContents: true
 
 ### Playing live on [Twitch](https://www.twitch.tv/kilobytekeith)  <i class="fa-brands fa-twitch"></i>
 
+<br>
 
 ### Completed on Stream ✔️
 
