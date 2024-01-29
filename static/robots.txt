@@ -7,6 +7,12 @@ User-agent: anthropic-ai
 Disallow: /
 
 # AI Data Scraper
+# https://darkvisitors.com/agents/bytespider
+
+User-agent: Bytespider
+Disallow: /
+
+# AI Data Scraper
 # https://darkvisitors.com/agents/ccbot
 
 User-agent: CCBot
@@ -31,18 +37,9 @@ User-agent: GPTBot
 Disallow: /
 
 # AI Data Scraper
-# https://darkvisitors.com/agents/omgilibot
-
-User-agent: omgilibot
-Disallow: /
+# https://darkvisitors.com/agents/omgili
 
 User-agent: omgili
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: AdsBot-Google
 Disallow: /
 
 Sitemap: https://kilobytekeith.com/sitemap.xml
