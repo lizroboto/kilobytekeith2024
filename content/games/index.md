@@ -9,14 +9,15 @@ showTableOfContents: true
 
 <hr>
 
-## In progress
+## In progress 🎮
+
 The Legend of Zelda: A Link to the Past
 <img src = "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.png" alt="The Legend of Zelda: A Link to the Past" width="250" height="auto">
  
 
 <br>
 
-### Completed on Stream ✔️
+## Completed on Stream ✔️
 
 | DOOM                |   Metal Gear Solid    | 
 | ------------------- | --------------------- |
