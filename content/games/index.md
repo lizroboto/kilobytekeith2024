@@ -1,21 +1,19 @@
 ---
-title: "Best Games Never Beat"
+title: "Best Games I've Never Beat"
 description: Game list completed by Keith
 showTableOfContents: true
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-## Playing live on [Twitch](https://www.twitch.tv/kilobytekeith)  <i class="fa-brands fa-twitch"></i>
-
-<hr>
+Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) {{< icon "twitch" >}}
 
 ## In progress 🎮
 
-The Legend of Zelda: A Link to the Past
-<img src = "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.png" alt="The Legend of Zelda: A Link to the Past" width="250" height="auto">
- 
 
-<br>
+| Donkey Kong Country (SNES)                |   The Legend of Zelda: A Link to the Past    | 
+| ------------------- | --------------------- |
+| ![DKC](https://images.igdb.com/igdb/image/upload/t_cover_big/co70qn.png) | ![LoZ](https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.png) |
+
+
+<!-- <img src = "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.png" alt="The Legend of Zelda: A Link to the Past" width="250" height="auto"> -->
 
 ## Completed on Stream ✔️
 
