@@ -7,6 +7,7 @@ Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) {{< icon "twitch" 
 
 ## In progress 🎮
 
+
 | Donkey Kong Country (SNES)                |  
 | ------------------- | --------------------- |
 | ![DKC](https://images.igdb.com/igdb/image/upload/t_cover_big/co70qn.png) | 
@@ -20,3 +21,4 @@ Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) {{< icon "twitch" 
 | ------------------- | --------------------- | --------------------- |
 | ![DOOM](https://images.igdb.com/igdb/image/upload/t_cover_big/co6vy6.png '1/14/24') | ![Metal Gear Solid](https://images.igdb.com/igdb/image/upload/t_cover_big/co5ipi.png '1/27/24') | ![LoZ](https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.png '3/8/24') |
 
+Sonic 3 & Knuckles 6/12/24
