@@ -1,7 +1,6 @@
 ---
 title: "Best Games I've Never Beat"
 description: Game list completed by Keith
-layout: simple
 ---
 Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) {{< icon "twitch" >}}
 
