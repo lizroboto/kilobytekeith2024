@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 logo = "img/nes-by-smashicons.png"
 secondaryLogo = "img/sega-by-smashicons.png"
 description = "KilobyteKeith on Twitch"
-copyright = 'Made with &#9829; by <a href="https://binarydigit.cafe/">BinaryDigit</a>'
+copyright = 'Made with &#9829; by <a href="https://binarydigit.profile.lol">BinaryDigit</a>'
 
 [author]
 name = "KilobyteKeith"
@@ -20,9 +20,9 @@ headline = "Retro Variety Streamer, Chill Dude, First-Person Potato, Flannel Ent
 bio = "Retro Variety Streamer, Chill Dude, First-Person Potato, Flannel Enthusiast, Foodie, and Covered in Dog Hair"
 links = [
     { twitch = "https://twitch.tv/kilobytekeith" },
-    { link = "https://shop.kilobytekeith.com/" },
+    { link = "https://shop.kilobytekeith.com" },
     { bluesky = "https://bsky.app/profile/kilobytekeith.tv" },
-    { twitter = "https://twitter.com/kilobytekeith" },
+    { instagram = "https://instagram.com/kilobyte.keith" },
     { youtube = "https://www.youtube.com/@kilobytekeith" },
     { discord = "/discord" },
     #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -38,7 +38,6 @@ links = [
     #     { gitlab = "https://gitlab.com/username" },
     #     { google = "https://www.google.com/" },
     #     { hashnode = "https://username.hashnode.dev" },
-    #     { instagram = "https://instagram.com/username" },
     #     { keybase = "https://keybase.io/username" },
     #     { kickstarter = "https://www.kickstarter.com/profile/username" },
     #     { lastfm = "https://lastfm.com/user/username" },

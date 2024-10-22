@@ -17,12 +17,6 @@
  weight = 10
 
 [[main]]
- name = "Gamelist"
- pre = "list"
- pageRef = "/games"
- weight = 20
-
-[[main]]
  pre = "rss"
  url = "/index.xml"
  weight = 50
