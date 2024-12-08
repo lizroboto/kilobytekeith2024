@@ -11,11 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "Games"
+ pre = "list"
+ pageRef = "/games"
+ weight = 10
+ 
+[[main]]
  name = "Commands"
  pre = "twitch"
  pageRef = "/commands"
- weight = 10
-
+ weight = 20
+ 
 [[main]]
  pre = "rss"
  url = "/index.xml"
