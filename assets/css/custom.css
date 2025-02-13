@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: Retro;
+    src: url('https://binarycdn.b-cdn.net/fonts/DepartureMono-Regular.woff2');
+/*    src: url('https://binarycdn.b-cdn.net/fonts/Retrocompute.ttf');*/
+}
+
+
+h1 {
+    font-family: Retro;
+    font-size: 22pt !important;
+}
+
+h2 {
+    font-family: Retro;
+    font-size: 13pt !important;
+}
+
+html{
+    font-family: Retro;
+/*      font-size: 10pt;*/
+}
+
+bsky-embed{
+    font-family: Retro;
+    text-align: left;
+}

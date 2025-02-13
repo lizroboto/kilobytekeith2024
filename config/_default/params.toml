@@ -7,7 +7,7 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+# autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = false
@@ -37,12 +37,12 @@ defaultFeaturedImage = "img/wallpaper.png" # used as default for featured images
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/wallpaper.png" # used in: hero, and card
+  homepageImage = "img/carl-raw-m3hn2Kn5Bns-unsplash.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 3
   showMoreLink = false
-  showMoreLinkDest = "/post s"
-  cardView = false
+  showMoreLinkDest = "/posts"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 

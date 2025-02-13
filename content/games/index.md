@@ -2,7 +2,7 @@
 title: "Best Games I've Never Beat"
 description: Game list to play and to beat
 ---
-Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) {{< icon "twitch" >}}
+Playing live on [Twitch](https://www.twitch.tv/kilobytekeith) 
 
 A list of games I've beaten and want to beat:
 

@@ -1,7 +1,14 @@
-<script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@1.0.1/snow-fall.js"></script>
-<script type="module" defer>
-const snow = document.createElement('snow-fall');
-document.body.prepend(snow)
-</script>
+---
+title: "KilobyteKeith"
+description: "Retro Variety Streamer, Chill Dude, First-Person Potato, Flannel Enthusiast, Foodie, and Covered in Dog Hair"
+---
 
-For business inquiries: KilobyteKeith@gmail.com
+
+ <!-- {{< snowfall >}} -->
+<!-- For business inquiries: KilobyteKeith@gmail.com -->
+
+<hr>
+
+# Latest Posts {{< icon "bluesky" >}} 
+
+{{< socials >}}

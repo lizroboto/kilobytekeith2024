@@ -10,11 +10,11 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
- name = "Games"
- pre = "list"
- pageRef = "/games"
- weight = 10
+# [[main]]
+#  name = "Games"
+#  pre = "list"
+#  pageRef = "/games"
+#  weight = 10
  
 [[main]]
  name = "Commands"
@@ -24,8 +24,8 @@
  
 [[main]]
  pre = "rss"
- url = "/index.xml"
- weight = 50
+ url = "https://kilobytekeith.com/index.xml"
+ weight = 90
 
 #[[main]]
 #  name = "Blog"
