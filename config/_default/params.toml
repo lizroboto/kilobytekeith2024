@@ -68,7 +68,7 @@ defaultFeaturedImage = "img/wallpaper.png" # used as default for featured images
   showReadingTime = false
   showTableOfContents = true
   # showRelatedContent = false
-  # relatedContentLimit = 3
+  # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
@@ -97,7 +97,7 @@ defaultFeaturedImage = "img/wallpaper.png" # used as default for featured images
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -106,7 +106,7 @@ defaultFeaturedImage = "img/wallpaper.png" # used as default for featured images
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
